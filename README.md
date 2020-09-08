@@ -1,4 +1,6 @@
-# Basic create-react-app via directory
+# Deploy create-react-app with subpath
+
+This example using `create-react-app` with `react-router-dom`
 
 ## Setup
 
