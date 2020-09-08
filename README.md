@@ -1,4 +1,4 @@
-# Deploy create-react-app with subpath
+# Deploy create-react-app with subdirectory
 
 This example using `create-react-app` with `react-router-dom`
 
